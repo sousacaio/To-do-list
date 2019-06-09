@@ -12,7 +12,7 @@ export default class App extends Component {
     };
     this.addButton = this.addButton.bind(this);
     this.loadList = this.loadList.bind(this);
-    this.url = 'https://b7web.com.br/todo/95807';
+    this.url = '';
     this.loadList();
   }
 
